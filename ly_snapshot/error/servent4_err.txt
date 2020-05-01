@@ -1,0 +1,17 @@
+18:24:33 - Radim svoj marker event.
+18:24:33 - Zapoceo sam novi snapshot. Lista inicijatora sa verzijama: {2=0, 4=1}
+18:24:34 - Cekam na odgovor
+18:24:40 - Dobio sam odgovor, ziveli!
+18:24:40 - Ja sam inicijator, moj ID: 4
+18:24:40 - Redni broj snapshot-a koji JA radim: 1
+18:24:40 - Cela jebena mapa {0={4={1=LYSnapshotResult [recordedAmount=871, giveHistory={1=279, 2=280, 6=253}, getHistory={1=302, 2=286, 6=95}]}}, 1={4={1=LYSnapshotResult [recordedAmount=700, giveHistory={0=302, 2=289, 3=257, 5=266}, getHistory={0=279, 2=285, 3=0, 5=250}]}}, 2={4={1=LYSnapshotResult [recordedAmount=517, giveHistory={0=270, 1=285, 3=255, 6=242}, getHistory={0=280, 1=289, 3=0, 6=0}]}}, 3={4={1=LYSnapshotResult [recordedAmount=1261, giveHistory={1=0, 2=0, 4=0, 6=0}, getHistory={1=257, 2=4, 4=0, 6=0}]}}, 4={4={1=LYSnapshotResult [recordedAmount=1000, giveHistory={3=0, 5=0}, getHistory={3=0, 5=0}]}}, 5={4={1=LYSnapshotResult [recordedAmount=1119, giveHistory={1=40, 4=46, 6=61}, getHistory={1=266, 4=0, 6=0}]}}, 6={4={1=LYSnapshotResult [recordedAmount=1089, giveHistory={0=160, 2=216, 3=150, 5=166}, getHistory={0=253, 2=242, 3=0, 5=286}]}}}
+18:25:01 - Nasao sam razliku u verzijama na inicijatoru 2
+18:25:01 - Moj kolektor i parent: 2 3
+18:25:01 - Kako ja koji nisam inicijator vidim verzije {2=1, 4=1}
+18:25:04 - Radim svoj marker event.
+18:25:04 - Zapoceo sam novi snapshot. Lista inicijatora sa verzijama: {2=1, 4=2}
+18:25:04 - Cekam na odgovor
+18:25:09 - Dobio sam odgovor, ziveli!
+18:25:09 - Ja sam inicijator, moj ID: 4
+18:25:09 - Redni broj snapshot-a koji JA radim: 2
+18:25:09 - Cela jebena mapa {0={4={2=LYSnapshotResult [recordedAmount=1029, giveHistory={1=279, 2=280, 6=253}, getHistory={1=302, 2=286, 6=253}]}, 2={1=LYSnapshotResult [recordedAmount=1029, giveHistory={1=279, 2=280, 6=253}, getHistory={1=302, 2=286, 6=253}]}}, 1={4={2=LYSnapshotResult [recordedAmount=713, giveHistory={0=302, 2=289, 3=257, 5=266}, getHistory={0=279, 2=298, 3=0, 5=250}]}, 2={1=LYSnapshotResult [recordedAmount=713, giveHistory={0=302, 2=289, 3=257, 5=266}, getHistory={0=279, 2=298, 3=0, 5=250}]}}, 2={4={2=LYSnapshotResult [recordedAmount=813, giveHistory={0=270, 1=285, 3=255, 6=242}, getHistory={0=280, 1=289, 3=0, 6=296}]}, 2={1=LYSnapshotResult [recordedAmount=813, giveHistory={0=270, 1=285, 3=255, 6=242}, getHistory={0=280, 1=289, 3=0, 6=296}]}}, 3={4={2=LYSnapshotResult [recordedAmount=1771, giveHistory={1=0, 2=0, 4=0, 6=0}, getHistory={1=257, 2=263, 4=0, 6=251}]}, 2={1=LYSnapshotResult [recordedAmount=1771, giveHistory={1=0, 2=0, 4=0, 6=0}, getHistory={1=257, 2=263, 4=0, 6=251}]}}, 4={2={1=LYSnapshotResult [recordedAmount=1286, giveHistory={3=0, 5=0}, getHistory={3=0, 5=286}]}, 4={2=LYSnapshotResult [recordedAmount=1286, giveHistory={3=0, 5=0}, getHistory={3=0, 5=286}]}}, 5={4={2=LYSnapshotResult [recordedAmount=1426, giveHistory={1=40, 4=46, 6=61}, getHistory={1=266, 4=0, 6=307}]}, 2={1=LYSnapshotResult [recordedAmount=1426, giveHistory={1=40, 4=46, 6=61}, getHistory={1=266, 4=0, 6=307}]}}, 6={4={2=LYSnapshotResult [recordedAmount=1093, giveHistory={0=160, 2=216, 3=150, 5=166}, getHistory={0=253, 2=246, 3=0, 5=286}]}, 2={1=LYSnapshotResult [recordedAmount=1093, giveHistory={0=160, 2=216, 3=150, 5=166}, getHistory={0=253, 2=246, 3=0, 5=286}]}}}

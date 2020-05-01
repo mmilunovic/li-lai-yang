@@ -1,0 +1,9 @@
+18:24:34 - Nasao sam razliku u verzijama na inicijatoru 4
+18:24:34 - Moj kolektor i parent: 4 4
+18:24:34 - Kako ja koji nisam inicijator vidim verzije {2=0, 4=1}
+18:25:00 - Nasao sam razliku u verzijama na inicijatoru 2
+18:25:00 - Moj kolektor i parent: 2 2
+18:25:00 - Kako ja koji nisam inicijator vidim verzije {2=1, 4=1}
+18:25:05 - Nasao sam razliku u verzijama na inicijatoru 4
+18:25:05 - Moj kolektor i parent: 4 4
+18:25:05 - Kako ja koji nisam inicijator vidim verzije {2=1, 4=2}

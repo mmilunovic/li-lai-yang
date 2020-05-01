@@ -1,0 +1,13 @@
+18:24:36 - Nasao sam razliku u verzijama na inicijatoru 4
+18:24:36 - Moj kolektor i parent: 4 3
+18:24:36 - Kako ja koji nisam inicijator vidim verzije {2=0, 4=1}
+18:24:59 - Radim svoj marker event.
+18:24:59 - Zapoceo sam novi snapshot. Lista inicijatora sa verzijama: {2=1, 4=1}
+18:25:00 - Cekam na odgovor
+18:25:04 - Dobio sam odgovor, ziveli!
+18:25:04 - Ja sam inicijator, moj ID: 2
+18:25:04 - Redni broj snapshot-a koji JA radim: 1
+18:25:04 - Cela jebena mapa {0={4={1=LYSnapshotResult [recordedAmount=871, giveHistory={1=279, 2=280, 6=253}, getHistory={1=302, 2=286, 6=95}]}, 2={1=LYSnapshotResult [recordedAmount=1029, giveHistory={1=279, 2=280, 6=253}, getHistory={1=302, 2=286, 6=253}]}}, 1={4={1=LYSnapshotResult [recordedAmount=700, giveHistory={0=302, 2=289, 3=257, 5=266}, getHistory={0=279, 2=285, 3=0, 5=250}]}, 2={1=LYSnapshotResult [recordedAmount=713, giveHistory={0=302, 2=289, 3=257, 5=266}, getHistory={0=279, 2=298, 3=0, 5=250}]}}, 2={2={1=LYSnapshotResult [recordedAmount=813, giveHistory={0=270, 1=285, 3=255, 6=242}, getHistory={0=280, 1=289, 3=0, 6=296}]}, 4={1=LYSnapshotResult [recordedAmount=517, giveHistory={0=270, 1=285, 3=255, 6=242}, getHistory={0=280, 1=289, 3=0, 6=0}]}}, 3={4={1=LYSnapshotResult [recordedAmount=1261, giveHistory={1=0, 2=0, 4=0, 6=0}, getHistory={1=257, 2=4, 4=0, 6=0}]}, 2={1=LYSnapshotResult [recordedAmount=1771, giveHistory={1=0, 2=0, 4=0, 6=0}, getHistory={1=257, 2=263, 4=0, 6=251}]}}, 4={4={1=LYSnapshotResult [recordedAmount=1000, giveHistory={5=0, 3=0}, getHistory={5=0, 3=0}]}, 2={1=LYSnapshotResult [recordedAmount=1286, giveHistory={5=0, 3=0}, getHistory={5=286, 3=0}]}}, 5={4={1=LYSnapshotResult [recordedAmount=1119, giveHistory={1=40, 4=46, 6=61}, getHistory={1=266, 4=0, 6=0}]}, 2={1=LYSnapshotResult [recordedAmount=1426, giveHistory={1=40, 4=46, 6=61}, getHistory={1=266, 4=0, 6=307}]}}, 6={4={1=LYSnapshotResult [recordedAmount=1089, giveHistory={0=160, 2=216, 3=150, 5=166}, getHistory={0=253, 2=242, 3=0, 5=286}]}, 2={1=LYSnapshotResult [recordedAmount=1093, giveHistory={0=160, 2=216, 3=150, 5=166}, getHistory={0=253, 2=246, 3=0, 5=286}]}}}
+18:25:06 - Nasao sam razliku u verzijama na inicijatoru 4
+18:25:06 - Moj kolektor i parent: 4 3
+18:25:06 - Kako ja koji nisam inicijator vidim verzije {2=1, 4=2}
